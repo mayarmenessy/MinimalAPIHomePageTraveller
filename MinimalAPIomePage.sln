@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalAPIomePage", "MinimalAPIomePage\MinimalAPIomePage.csproj", "{474FA31B-B83F-45F4-AEDB-8E3DBC07C840}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{474FA31B-B83F-45F4-AEDB-8E3DBC07C840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{474FA31B-B83F-45F4-AEDB-8E3DBC07C840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{474FA31B-B83F-45F4-AEDB-8E3DBC07C840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{474FA31B-B83F-45F4-AEDB-8E3DBC07C840}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3EA700D-8DE2-4FC4-95E3-60706804DC8F}
+	EndGlobalSection
+EndGlobal
